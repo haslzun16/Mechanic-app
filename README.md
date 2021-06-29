@@ -41,7 +41,7 @@ Mechanic Finder is an online mechanic finder app that displays Mechanics that ar
 - :link:&nbsp; [React Navigation](https://reactnavigation.org/ 'React Navigation')
 - :performing_arts:&nbsp; [Styled Components](https://styled-components.com/ 'Styled Components')
 - :world_map:&nbsp; [React Native Maps](https://github.com/react-native-maps/react-native-maps/ 'React Native Maps')
-- :connection:&nbsp; [Yelp Fusion](https://www.yelp.com/fusion/ 'Yelp Fusion')
+- :connect:&nbsp; [Yelp Fusion](https://www.yelp.com/fusion/ 'Yelp Fusion')
 
 ## :sparkles: Main Features
 - Location search through cities around the world to discover mechanics.
