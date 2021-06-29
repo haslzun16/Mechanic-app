@@ -49,10 +49,10 @@ Mechanic Finder is an online mechanic finder app that displays Mechanics that ar
 ## :camera_flash: Screenshots
 
 <p>
-    <img src="./assets/screenshots/app-preview-1.gif" width="250">
-    <img src="./assets/screenshots/app-preview-map.png" width="250">
-    <img src="./assets/screenshots/app-preview-2.gif" width="250">
-    <img src="./assets/screenshots/app-preview-restaurant-menu.png" width="250">
-    <img src="./assets/screenshots/app-preview-3.gif" width="250">
+    <img src="./assets/Onboarding-screen.gif" width="250">
+    <img src="./assets/Simulator Screen Shot - iPhone 12 Pro Max - 2021-06-29 at 11.21.21.png" width="250">
+    <img src="./assets/home-screen.gif" width="250">
+    <img src="./assets/Simulator Screen Shot - iPhone 12 Pro Max - 2021-06-29 at 11.22.30.png" width="250">
+    <img src="./assets/profile-screen.gif" width="250">
     <img src="./assets/screenshots/app-preview-user-settings.png" width="250">
 </p>
