@@ -14,7 +14,7 @@ Mechanic Finder is an online mechanic finder app that displays Mechanics that ar
 
 [![runs with Expo Go](https://img.shields.io/badge/Runs%20with%20Expo%20Go-4630EB.svg?style=flat-square&logo=EXPO&labelColor=f3f3f3&logoColor=000)](https://expo.io/@bernn/YumMeals)
 
-### :1234: Instructions to Preview (_iOS users, see note below_)
+### :1234: Instructions to Preview 
 
 1. Head over to the Google Play Store and download the Expo Go app
 
