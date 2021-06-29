@@ -54,5 +54,5 @@ Mechanic Finder is an online mechanic finder app that displays Mechanics that ar
     <img src="./assets/home-screen.gif" width="250">
     <img src="./assets/Simulator Screen Shot - iPhone 12 Pro Max - 2021-06-29 at 11.22.30.png" width="250">
     <img src="./assets/profile-screen.gif" width="250">
-    <img src="./assets/screenshots/app-preview-user-settings.png" width="250">
+    
 </p>
