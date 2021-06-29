@@ -26,7 +26,7 @@ Mechanic Finder is an online mechanic finder app that displays Mechanics that ar
 
 3. After completing step 1 and 2 above, open your device camera and scan the provided QR code in the link below:
 
-   - Link: my_link_goes here (_**Published version of app hosted on Expo**_)
+   - Link: https://expo.io/@haslhoff16/mechanic-finder (_**Published version of app hosted on Expo**_)
 
 4. After scanning the QR code, the Expo Go app will automatically load up the app
 
