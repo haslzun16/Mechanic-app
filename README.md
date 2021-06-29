@@ -6,10 +6,6 @@
 <!--   <img src="./assets/images/icon@3x.png" alt="App brand icon" /> -->
 </div>
 
-<p align="center">Icons made by <a href="https://www.flaticon.com/authors/freepik">Freepik</a></p>
-
-<br />
-
 ## :calling: About
 
 Mechanic Finder is an online mechanic finder app that displays Mechanics that are within the provided zip code area. Core features include location searching with zip code, which displays a list of mechanics. Users will be provided with the address of the Mechanic shop and will be automatically taken to their GPS application. Users will be able to see ratings and reviews of the mechanic shop to make the right choice. 
